@@ -1,0 +1,10 @@
+com\teradata\pages\VerifyVersionPage.class
+generic\BasePage.class
+generic\BaseTest.class
+com\teradata\tests\VerifyVersion.class
+generic\UtilityLib.class
+com\teradata\pages\LoginPage.class
+com\teradata\pages\EnterTimeTrackPage.class
+com\teradata\tests\ValidLoginLogout.class
+generic\IAutoConst.class
+com\teradata\tests\InvalidLogin.class

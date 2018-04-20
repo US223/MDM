@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="4.251" tests="1" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\FrameWork\MDM\target\test-classes;C:\FrameWork\MDM\target\classes;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-java\3.8.0\selenium-java-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-api\3.8.0\selenium-api-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.8.0\selenium-chrome-driver-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.8.0\selenium-edge-driver-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.8.0\selenium-firefox-driver-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.8.0\selenium-ie-driver-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.8.0\selenium-opera-driver-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.8.0\selenium-remote-driver-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.8.0\selenium-safari-driver-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-support\3.8.0\selenium-support-3.8.0.jar;C:\Users\un255005\.m2\repository\net\bytebuddy\byte-buddy\1.7.5\byte-buddy-1.7.5.jar;C:\Users\un255005\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\un255005\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\un255005\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\un255005\.m2\repository\com\google\code\gson\gson\2.8.2\gson-2.8.2.jar;C:\Users\un255005\.m2\repository\com\google\guava\guava\23.0\guava-23.0.jar;C:\Users\un255005\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\un255005\.m2\repository\com\google\errorprone\error_prone_annotations\2.0.18\error_prone_annotations-2.0.18.jar;C:\Users\un255005\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\un255005\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\un255005\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\un255005\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\un255005\.m2\repository\org\testng\testng\6.11\testng-6.11.jar;C:\Users\un255005\.m2\repository\com\beust\jcommander\1.64\jcommander-1.64.jar;C:\Users\un255005\.m2\repository\org\yaml\snakeyaml\1.17\snakeyaml-1.17.jar;C:\Users\un255005\.m2\repository\org\apache\poi\poi\3.17\poi-3.17.jar;C:\Users\un255005\.m2\repository\org\apache\commons\commons-collections4\4.1\commons-collections4-4.1.jar;C:\Users\un255005\.m2\repository\org\apache\poi\poi-ooxml\3.17\poi-ooxml-3.17.jar;C:\Users\un255005\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.17\poi-ooxml-schemas-3.17.jar;C:\Users\un255005\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar;C:\Users\un255005\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\un255005\.m2\repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar;C:\Users\un255005\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.21.0\surefire-testng-utils-2.21.0.jar;C:\Users\un255005\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.21.0\surefire-grouper-2.21.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_161\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\un255005\AppData\Local\Temp\surefire4581839120032369465\surefirebooter7895539670444051821.jar C:\Users\un255005\AppData\Local\Temp\surefire4581839120032369465 2018-04-20T14-33-24_179-jvmRun1 surefire5267764306203937094tmp surefire_03766796646320544940tmp"/>
+    <property name="surefire.test.class.path" value="C:\FrameWork\MDM\target\test-classes;C:\FrameWork\MDM\target\classes;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-java\3.8.0\selenium-java-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-api\3.8.0\selenium-api-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.8.0\selenium-chrome-driver-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.8.0\selenium-edge-driver-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.8.0\selenium-firefox-driver-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.8.0\selenium-ie-driver-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.8.0\selenium-opera-driver-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.8.0\selenium-remote-driver-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.8.0\selenium-safari-driver-3.8.0.jar;C:\Users\un255005\.m2\repository\org\seleniumhq\selenium\selenium-support\3.8.0\selenium-support-3.8.0.jar;C:\Users\un255005\.m2\repository\net\bytebuddy\byte-buddy\1.7.5\byte-buddy-1.7.5.jar;C:\Users\un255005\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\un255005\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\un255005\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\un255005\.m2\repository\com\google\code\gson\gson\2.8.2\gson-2.8.2.jar;C:\Users\un255005\.m2\repository\com\google\guava\guava\23.0\guava-23.0.jar;C:\Users\un255005\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\un255005\.m2\repository\com\google\errorprone\error_prone_annotations\2.0.18\error_prone_annotations-2.0.18.jar;C:\Users\un255005\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\un255005\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\un255005\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\un255005\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\un255005\.m2\repository\org\testng\testng\6.11\testng-6.11.jar;C:\Users\un255005\.m2\repository\com\beust\jcommander\1.64\jcommander-1.64.jar;C:\Users\un255005\.m2\repository\org\yaml\snakeyaml\1.17\snakeyaml-1.17.jar;C:\Users\un255005\.m2\repository\org\apache\poi\poi\3.17\poi-3.17.jar;C:\Users\un255005\.m2\repository\org\apache\commons\commons-collections4\4.1\commons-collections4-4.1.jar;C:\Users\un255005\.m2\repository\org\apache\poi\poi-ooxml\3.17\poi-ooxml-3.17.jar;C:\Users\un255005\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.17\poi-ooxml-schemas-3.17.jar;C:\Users\un255005\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar;C:\Users\un255005\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\un255005\.m2\repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar;C:\Users\un255005\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.21.0\surefire-testng-utils-2.21.0.jar;C:\Users\un255005\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.21.0\surefire-grouper-2.21.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\un255005"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_161\jre"/>
+    <property name="basedir" value="C:\FrameWork\MDM"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\un255005\AppData\Local\Temp\surefire4581839120032369465\surefirebooter7895539670444051821.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_161\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_161\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_161-b12"/>
+    <property name="user.name" value="un255005"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_161\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\un255005\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\un255005\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_161"/>
+    <property name="user.dir" value="C:\FrameWork\MDM"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_161\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_161/bin/server;C:/Program Files/Java/jre1.8.0_161/bin;C:/Program Files/Java/jre1.8.0_161/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Users\un255005\AppData\Local\Microsoft\WindowsApps;;C:\Windows\system32;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.161-b12"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_161\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testLoginLogout" classname="com.teradata.tests.ValidLoginLogout" time="0.673">
+    <failure message="no such window: target window already closed&#10;from unknown error: web view not found&#10;  (Session info: chrome=66.0.3359.117)&#10;  (Driver info: chromedriver=2.38.551601 (edb21f07fc70e9027c746edd3201443e011a61ed),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;Build info: version: &apos;3.8.0&apos;, revision: &apos;924c4067df&apos;, time: &apos;2017-11-30T11:20:39.408Z&apos;&#10;System info: host: &apos;WINUN255005-0S7&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_161&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.551601 (edb21f07fc70e9..., userDataDir: C:\Users\un255005\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.117, webStorageEnabled: true}&#10;Session ID: 0fa5a997d73518755ec3590832618d9c&#10;*** Element info: {Using=id, value=username}" type="org.openqa.selenium.NoSuchWindowException">org.openqa.selenium.NoSuchWindowException: 
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=66.0.3359.117)
+  (Driver info: chromedriver=2.38.551601 (edb21f07fc70e9027c746edd3201443e011a61ed),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.8.0', revision: '924c4067df', time: '2017-11-30T11:20:39.408Z'
+System info: host: 'WINUN255005-0S7', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.551601 (edb21f07fc70e9..., userDataDir: C:\Users\un255005\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.117, webStorageEnabled: true}
+Session ID: 0fa5a997d73518755ec3590832618d9c
+*** Element info: {Using=id, value=username}
+	at com.teradata.tests.ValidLoginLogout.testLoginLogout(ValidLoginLogout.java:34)
+</failure>
+    <system-out><![CDATA[admin
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.38.551601 (edb21f07fc70e9027c746edd3201443e011a61ed) on port 48153
+Only local connections are allowed.
+Apr 20, 2018 2:33:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+</testsuite>

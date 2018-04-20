@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6043" started-at="2018-04-19T12:33:38Z" finished-at="2018-04-19T12:33:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6043" started-at="2018-04-19T12:33:38Z" finished-at="2018-04-19T12:33:44Z">
+      <class name="com.teradata.tests.ValidLoginLogout">
+        <test-method status="PASS" signature="initApp()[pri:0, instance:com.teradata.tests.ValidLoginLogout@2353b3e6]" name="initApp" is-config="true" duration-ms="15" started-at="2018-04-19T12:33:38Z" finished-at="2018-04-19T12:33:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApp -->
+        <test-method status="PASS" signature="OpenApp()[pri:0, instance:com.teradata.tests.ValidLoginLogout@2353b3e6]" name="OpenApp" is-config="true" duration-ms="5200" started-at="2018-04-19T12:33:38Z" finished-at="2018-04-19T12:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApp -->
+        <test-method status="PASS" signature="testLoginLogout()[pri:1, instance:com.teradata.tests.ValidLoginLogout@2353b3e6]" name="testLoginLogout" duration-ms="838" started-at="2018-04-19T12:33:43Z" finished-at="2018-04-19T12:33:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginLogout -->
+      </class> <!-- com.teradata.tests.ValidLoginLogout -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
